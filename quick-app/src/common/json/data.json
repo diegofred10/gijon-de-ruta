@@ -22,7 +22,7 @@
                 "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/issues/new?labels=country/city&template=update_request.md&title=Update+Request"
             },
             "pois": [{
-                        "id" : null,
+                        "id" : "1",
                         "type" : "Fuente",
                         "lon" : "-5.66385045981053",
                         "lat" : "43.54501279081623",
@@ -35,7 +35,7 @@
                         "urls": []
                       },
                       {
-                        "id" : null,
+                        "id" : "2",
                         "type" : "Estatua",
                         "lon" : "-5.663039444454467",
                         "lat" : "43.54907182380377",
@@ -48,7 +48,7 @@
                         "urls": []
                       },
                       {
-                        "id" : null,
+                        "id" : "3",
                         "type" : "Busto",
                         "lon" : "-5.661041523451009",
                         "lat" : "43.545386200866616",
@@ -61,7 +61,7 @@
                         "urls": []
                       },
                       {
-                        "id" : null,
+                        "id" : "4",
                         "type" : "Fuente",
                         "lon" : "-5.663383379748695",
                         "lat" : "43.544355676352005",
