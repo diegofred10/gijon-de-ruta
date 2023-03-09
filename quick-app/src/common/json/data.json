@@ -22,40 +22,58 @@
                 "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/issues/new?labels=country/city&template=update_request.md&title=Update+Request"
             },
             "pois": [{
-                    "id": "uniqueid",
-                    "lat": "50.978",
-                    "lon": "4.72",
-                    "type": "statue",
-                    "name": "My Statue",
-                    "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/astrolabe.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/astrolabe_2.jpg"
-                    ],
-                    "description": "One-paragraph description",
-                    "more": "More description, if you want",
-                    "urls": [
-                        "https://nl.wikipedia.org/wiki/De_Kotmadam_(Leuven)",
-                        "https://example.org/mypoi"
-                    ]
-                },
-                {
-                    "id": "uniqueid2",
-                    "lat": "50.8789629",
-                    "lon": "4.7013242",
-                    "type": "statue",
-                    "name": "My Asset",
-                    "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/kartuizerpomp.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/kartuizerpomp_2.jpg"
-                    ],
-                    "description": "One-paragraph description",
-                    "more": "More description, if you want",
-                    "urls": [
-                        "https://nl.wikipedia.org/MyPoi",
-                        "https://example.org/mypoi"
+                        "id" : null,
+                        "type" : "Fuente",
+                        "lon" : "-5.66385045981053",
+                        "lat" : "43.54501279081623",
+                        "name" : "Monumento a Pelayo",
+                        "description" : null,
+                        "more" : "",
+                        "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Don_Pelayo_en_Gij%C3%B3n.JPG/1200px-Don_Pelayo_en_Gij%C3%B3n.JPG"],
+                        "attributions": ["Source: Thanks to...", "Your attributions here"],
+                        "wikidata": "",
+                        "urls": []
+                      },
+                      {
+                        "id" : null,
+                        "type" : "Estatua",
+                        "lon" : "-5.663039444454467",
+                        "lat" : "43.54907182380377",
+                        "name" : "Elogio del Horizionte",
+                        "description" : null,
+                        "more" : "",
+                        "images" : ["https://drupal.gijon.es/sites/default/files/styles/imagen_cabecera_slider/public/2019-07/SMT_166-1.jpg"],
+                        "attributions": ["Source: Thanks to...", "Your attributions here"],
+                        "wikidata": "",
+                        "urls": []
+                      },
+                      {
+                        "id" : null,
+                        "type" : "Busto",
+                        "lon" : "-5.661041523451009",
+                        "lat" : "43.545386200866616",
+                        "name" : "Termas Romanas de Gijón",
+                        "description" : null,
+                        "more" : "",
+                        "images" : ["https://www.turismoasturias.es/documents/11022/75336/TermasRomanasCampoValdes1.jpg/b8f18511-2f10-4c34-9760-30c61fabe672?t=1390507444858"],
+                        "attributions": ["Source: Thanks to...", "Your attributions here"],
+                        "wikidata": "",
+                        "urls": []
+                      },
+                      {
+                        "id" : null,
+                        "type" : "Fuente",
+                        "lon" : "-5.663383379748695",
+                        "lat" : "43.544355676352005",
+                        "name" : "El Coleccionista Cervecería",
+                        "description" : null,
+                        "more" : "",
+                        "images" : ["https://lh3.googleusercontent.com/p/AF1QipN3NS97bqtgkxUDrBCNF1HK1TVRZ_jgO9JXgsqv"],
+                        "attributions": ["Source: Thanks to...", "Your attributions here"],
+                        "wikidata": "",
+                        "urls": []
+                      }
                     ]
                 }
-            ]
+            }
         }
-    }
-}
