@@ -1,6 +1,6 @@
 {
     "meta": {
-        "app_title": "City Street Heritage",
+        "app_title": "Gijon de Ruta",
         "version": 1,
         "updated": "2022-03-26",
         "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/data.json",
@@ -72,7 +72,32 @@
                         "attributions": ["Source: Thanks to...", "Your attributions here"],
                         "wikidata": "",
                         "urls": []
+                      },
+                      {"id" : "5",
+                        "type" : "Monumento Cartel",
+                        "lon" : "-5.6650587793939176",
+                        "lat" : "43.54407594869229",
+                        "name" : "Las letronas",
+                        "description" : "Están hechas en acero macizo con el color rojo característico de la ciudad, miden más de tres metros de alto, tienen un grosor de 25 centímetros y cada letra pesa más de dos toneladas, casi diez en total. La adaptación de la marca a la escultura fue realizada por el diseñador Juan Jareño",
+                        "more" : "Pista: Busca el color rojo sobre el mar.",
+                        "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Letronas_de_Gijon_edited.jpg/1200px-Letronas_de_Gijon_edited.jpg"],
+                        "attributions": ["Source: Thanks to...", "Your attributions here"],
+                        "wikidata": "",
+                        "urls": []
+                      },
+                      {"id" : "6",
+                        "type" : "Museo",
+                        "lon" : "-5.672126206808918",
+                        "lat" : "43.540893089370435",
+                        "name" : "Museo del ferrocarril",
+                        "description" : "Amplia colección de material historico ferroviario, tales como locomotoras y vagones de viajeros",
+                        "more" : "Pista: Tu siguiente destino esta en una vieja estacion.",
+                        "images" : ["https://www.vivireltren.es/wp-content/uploads/2012/12/Museo-Ferrocarril-Asturias.jpg"],
+                        "attributions": ["Source: Thanks to...", "Your attributions here"],
+                        "wikidata": "",
+                        "urls": []
                       }
+
                     ]
                 }
             }
