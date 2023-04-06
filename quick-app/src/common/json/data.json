@@ -96,6 +96,30 @@
                         "attributions": ["Source: Thanks to...", "Your attributions here"],
                         "wikidata": "",
                         "urls": []
+                      },
+                      {"id" : "7",
+                        "type" : "Restaurante",
+                        "lon" : "-5.675135632618563",
+                        "lat" : "43.54114615140172",
+                        "name" : "Terrastur",
+                        "description" : "Cachopos y mucho más",
+                        "more" : null,
+                        "images" : ["https://www.lavozdeasturias.es/default/2020/08/27/00121598527074492862595/Foto/terrastur.jpg"],
+                        "attributions": ["Source: Thanks to...", "Your attributions here"],
+                        "wikidata": "",
+                        "urls": []
+                      },
+                      {"id" : "8",
+                        "type" : "Museo",
+                        "lon" : "-5.676589402245785",
+                        "lat" : "43.54231821681881",
+                        "name" : "Museo oceanográfico de Gijón",
+                        "description" : "Miles de especies marinas a tu alcance",
+                        "more" : null,
+                        "images" : ["https://queverdeasturias.com/admin/imagenes/acuario-gijon-06jpg.jpg"],
+                        "attributions": ["Source: Thanks to...", "Your attributions here"],
+                        "wikidata": "",
+                        "urls": []
                       }
 
                     ]
