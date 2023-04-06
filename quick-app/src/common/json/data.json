@@ -49,13 +49,13 @@
                       },
                       {
                         "id" : "3",
-                        "type" : "Busto",
+                        "type" : "Monumento histórico",
                         "lon" : "-5.661041523451009",
                         "lat" : "43.545386200866616",
                         "name" : "Termas Romanas de Gijón",
                         "description" : "Termas romanas conservadas a lo largo de los siglos por la civilización de Gijón",
                         "more" : null,
-                        "images" : ["https://www.turismoasturias.es/documents/11022/75336/TermasRomanasCampoValdes1.jpg/b8f18511-2f10-4c34-9760-30c61fabe672?t=1390507444858"],
+                        "images" : ["https://planesconhijos.com/wp-content/uploads/2015/08/termas-romanas-de-Gij%C3%B3n.jpg"],
                         "attributions": ["Source: Thanks to...", "Your attributions here"],
                         "wikidata": "",
                         "urls": []
