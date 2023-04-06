@@ -11,7 +11,7 @@
         "en": {
             "app": {
                 "theme": {
-                    "brand": "#FF0000",
+                    "brand": "#E81414",
                     "complementary": "#FFFFFF"
                 },
                 "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/tree/main/docs/country/city",
@@ -53,7 +53,7 @@
                         "lon" : "-5.661041523451009",
                         "lat" : "43.545386200866616",
                         "name" : "Termas Romanas de Gijón",
-                        "description" : null,
+                        "description" : "Termas romanas conservadas a lo largo de los siglos por la civilización de Gijón",
                         "more" : "",
                         "images" : ["https://www.turismoasturias.es/documents/11022/75336/TermasRomanasCampoValdes1.jpg/b8f18511-2f10-4c34-9760-30c61fabe672?t=1390507444858"],
                         "attributions": ["Source: Thanks to...", "Your attributions here"],
